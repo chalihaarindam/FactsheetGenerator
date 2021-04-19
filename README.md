@@ -1,4 +1,4 @@
 # FactsheetGenerator
 This is a factsheet generator for IAESTE-CI SMU
 
-live on : www.iaestecismu.in
+live on : http://www.iaestecismu.in/form.html
